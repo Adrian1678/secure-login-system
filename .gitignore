@@ -1,0 +1,12 @@
+.DS_Store
+hashing
+encrypt
+file_encryption
+*.dSYM/
+b.txt
+User_database.txt
+not_the_key.bin
+Encrypted_User_database.enc
+sha_test
+test
+.vscode/
